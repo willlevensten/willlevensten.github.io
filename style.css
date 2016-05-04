@@ -1,0 +1,35 @@
+h1{
+  text-align:center;
+  color:purple;
+  font-size:70px;
+}
+h2{
+  color:red;
+}
+body{
+  background-color:#C2C2C2
+}
+img{
+  width:500px;
+ border:solid 30px black;
+}
+#nikesb{
+  width:500px;
+}
+.shoes{
+  height:300px;
+}
+ol{
+  
+  color:blue;
+}
+#news{
+  color:green;
+  text align:center;
+}
+#here{
+  color:yellow;
+}
+p{
+  font-size:27px
+}
