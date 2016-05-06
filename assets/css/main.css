@@ -2168,7 +2168,22 @@
 
 			#main > section.one {
 				background-color: #81918E;
+				background-image: url("https://assets.paddle8.com/media/editorial/entry/1435704646-sneakers-air-jordan-1-banner.jpeg");
+			}
+
+			#main > section.NYC10 {
+				background-color: #81918E;
 				background-image: url("http://cdn.sneakernews.com/wp-content/uploads/2016/04/air-jordan-10-nyc-releases-reminder-1-323x215.jpg");
+			}
+
+			#main > section.Rio10 {
+				background-color: #81918E;
+				background-image: url("https://content.nike.com/content/dam/one-nike/en_us/season-2016-su/Shop/launch/05-2016/air-jordan-10-retro-rio/0428/Air-Jordan-10-Retro-Rio-MAIN.jpg.transform/default/image.jpg");
+			}
+
+			#main > section.Letterman1 {
+				background-color: #81918E;
+				background-image: url("http://theshoegame.com/wp-content/uploads/2016/03/air-jordan-1-david-letterman-4.jpg");
 			}
 
 			#main > section.two {
